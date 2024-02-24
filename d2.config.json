@@ -1,7 +1,7 @@
 {
   "type": "app",
-  "name": "data-administration",
-  "title": "Data Administration",
+  "name": "data-admin-manager",
+  "title": "Data Admin Manager",
   "coreApp": true,
   "version": "1.1.51",
   "description": ""
